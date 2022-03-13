@@ -1,11 +1,11 @@
 {
     "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
     "author": [
-        "Predeactor"
+        "Predeactor, Jacob"
     ],
     "end_user_data_statement": "This cog store data about users persistently for required reasons. Red may store where and when you send your last message, depending cog's parameter (If sent in a cooldowned channel/category) as your Discord's ID.",
-    "description": "CustomCooldown moderated by bot.",
-    "short": "CustomCooldown moderated by bot.",
+    "description": "Customized slowmode per channel/category.",
+    "short": "Customized slowmode per channel/category.",
     "install_msg": "Thank for installing the CustomCooldown cog!",
     "tags": [
         "utility",
